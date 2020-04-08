@@ -67,7 +67,7 @@ int main()
     main_menu(*select);
     load(*select, stats,profil,stats_total,v);
     delete select;
-    getch();
+    _getch();
 
 
 
