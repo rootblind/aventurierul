@@ -10,7 +10,7 @@ using namespace std;
 
 void next()
 {
-    cout<<'\n'<<"Apasa o tasta pentru a continua:";getch();
+    cout<<'\n'<<"Apasa o tasta pentru a continua:";_getch();
 }
 
 void shop_file_load(unsigned v[31])
